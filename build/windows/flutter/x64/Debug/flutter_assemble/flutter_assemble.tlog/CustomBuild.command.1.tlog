@@ -1,0 +1,28 @@
+^D:\PROGRAMMING\FLUTTER\HABIT_APP\BUILD\WINDOWS\CMAKEFILES\77F9C18D47FA39F5BBD6BFF0D5BE27E6\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Programs\flutter PROJECT_DIR=D:\Programming\Flutter\habit_app FLUTTER_ROOT=D:\Programs\flutter FLUTTER_EPHEMERAL_DIR=D:\Programming\Flutter\habit_app\windows\flutter\ephemeral PROJECT_DIR=D:\Programming\Flutter\habit_app FLUTTER_TARGET=D:\Programming\Flutter\habit_app\lib\components\habit_tile.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\Programming\Flutter\habit_app\.dart_tool\package_config.json D:/Programs/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROGRAMMING\FLUTTER\HABIT_APP\BUILD\WINDOWS\CMAKEFILES\9D06C9BC8E8E4E1DE08BC11BEA37C8E0\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROGRAMMING\FLUTTER\HABIT_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Programming/Flutter/habit_app/windows -BD:/Programming/Flutter/habit_app/build/windows --check-stamp-file D:/Programming/Flutter/habit_app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

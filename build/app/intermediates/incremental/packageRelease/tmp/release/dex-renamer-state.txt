@@ -1,0 +1,4 @@
+#Tue Jun 13 10:54:23 CEST 2023
+base.0=D\:\\Programming\\Flutter\\habit_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
