@@ -1,0 +1,4 @@
+{
+  "version": 2,
+  "entries": [{ "package": "happit", "rootUri": "../", "packageUri": "lib/" }]
+}

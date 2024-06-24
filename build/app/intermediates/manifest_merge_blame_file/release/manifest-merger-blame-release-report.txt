@@ -17,7 +17,7 @@
 13-->[androidx.core:core:1.6.0] C:\Users\nikla\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 14        android:icon="@mipmap/happit"
 14-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:6:9-38
-15        android:label="Happit" >
+15        android:label="happit" >
 15-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:4:9-31
 16        <activity
 16-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:7:9-27:20
@@ -67,7 +67,7 @@
 43-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:29:13-86
 44            android:exported="true"
 44-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:30:13-36
-45            android:label="Happit" >
+45            android:label="happit" >
 45-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:31:13-35
 46            <intent-filter>
 46-->D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:32:13-38:29

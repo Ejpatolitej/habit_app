@@ -19,7 +19,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/happit"
-        android:label="Happit" >
+        android:label="happit" >
         <activity
             android:name="com.example.habit_app.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
@@ -49,7 +49,7 @@
         <receiver
             android:name="com.example.habit_app.home_screen_widget"
             android:exported="true"
-            android:label="Happit" >
+            android:label="happit" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
                 <action android:name="android.appwidget.action.APPWIDGET_ENABLED" />

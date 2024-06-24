@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:Happit/data/database.dart';
-import 'package:Happit/components/my_alert_box.dart';
-import 'package:Happit/components/todo_tile.dart';
+import 'package:happit/data/database.dart';
+import 'package:happit/components/my_alert_box.dart';
+import 'package:happit/components/todo_tile.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class HomeScreenWidget extends StatefulWidget {
@@ -100,7 +100,9 @@ class _HomeScreenWidgetState extends State<HomeScreenWidget> {
         title: Row(
           children: const [
             Icon(Icons.check_box),
-            SizedBox(width: 8,),
+            SizedBox(
+              width: 8,
+            ),
             Text('To Do'),
           ],
         ),

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.habit_app">
    <application
-        android:label="Happit"
+        android:label="happit"
         android:name="${applicationName}"
         android:icon="@mipmap/happit">
         <activity
@@ -28,7 +28,7 @@
         <receiver
             android:name="home_screen_widget"
             android:exported="true"
-            android:label="Happit">
+            android:label="happit">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
                 <action android:name="android.appwidget.action.APPWIDGET_ENABLED" />

@@ -22,7 +22,7 @@
 19-->[androidx.core:core:1.6.0] C:\Users\nikla\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/happit"
-22        android:label="Happit" >
+22        android:label="happit" >
 23        <activity
 24            android:name="com.example.habit_app.MainActivity"
 25            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
@@ -52,7 +52,7 @@
 49        <receiver
 50            android:name="com.example.habit_app.home_screen_widget"
 51            android:exported="true"
-52            android:label="Happit" >
+52            android:label="happit" >
 53            <intent-filter>
 54                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
 55                <action android:name="android.appwidget.action.APPWIDGET_ENABLED" />
