@@ -1044,7 +1044,7 @@ Marking id:accessibility_custom_action_6:2131034141 used because it matches stri
 Marking id:accessibility_custom_action_7:2131034142 used because it matches string pool constant acc
 Marking id:accessibility_custom_action_8:2131034143 used because it matches string pool constant acc
 Marking id:accessibility_custom_action_9:2131034144 used because it matches string pool constant acc
-Marking id:locale:2131034162 used because it matches string pool constant locale
+Marking id:locale:2131034163 used because it matches string pool constant locale
 Marking id:accessibility_action_clickable_span:2131034112 used because it matches string pool constant accessibility
 Marking id:accessibility_custom_action_0:2131034113 used because it matches string pool constant accessibility
 Marking id:accessibility_custom_action_1:2131034114 used because it matches string pool constant accessibility
@@ -1081,10 +1081,10 @@ Marking id:accessibility_custom_action_9:2131034144 used because it matches stri
 Marking attr:primaryActivityName:2130771988 used because it matches string pool constant primaryActivityName
 Marking color:androidx_core_ripple_material_light:2130837504 used because it matches string pool constant android
 Marking color:androidx_core_secondary_text_default_material_light:2130837505 used because it matches string pool constant android
-Marking id:androidx_window_activity_scope:2131034150 used because it matches string pool constant android
+Marking id:androidx_window_activity_scope:2131034151 used because it matches string pool constant android
 Marking attr:shortcutMatchRequired:2130771992 used because it matches string pool constant short
 Marking attr:secondaryActivityName:2130771991 used because it matches string pool constant secondaryActivityName
-Marking id:info:2131034158 used because it matches string pool constant info
+Marking id:info:2131034159 used because it matches string pool constant info
 Marking attr:primaryActivityName:2130771988 used because it matches string pool constant primaryActivity
 Marking attr:secondaryActivityAction:2130771990 used because it matches string pool constant secondaryActivity
 Marking attr:secondaryActivityName:2130771991 used because it matches string pool constant secondaryActivity
@@ -1093,12 +1093,12 @@ Marking id:action_divider:2131034146 used because it matches string pool constan
 Marking id:action_image:2131034147 used because it matches string pool constant action
 Marking id:action_text:2131034148 used because it matches string pool constant action
 Marking id:actions:2131034149 used because it matches string pool constant action
-Marking id:text:2131034184 used because it matches string pool constant text
-Marking id:text2:2131034185 used because it matches string pool constant text
+Marking id:text:2131034185 used because it matches string pool constant text
+Marking id:text2:2131034186 used because it matches string pool constant text
 Marking attr:activityAction:2130771968 used because it matches string pool constant activity
 Marking attr:activityName:2130771969 used because it matches string pool constant activity
-Marking id:line1:2131034160 used because it matches string pool constant line
-Marking id:line3:2131034161 used because it matches string pool constant line
+Marking id:line1:2131034161 used because it matches string pool constant line
+Marking id:line3:2131034162 used because it matches string pool constant line
 @attr/activityAction : reachable=true
 @attr/activityName : reachable=true
 @attr/alpha : reachable=false
@@ -1220,6 +1220,7 @@ Marking id:line3:2131034161 used because it matches string pool constant line
 @id/action_image : reachable=true
 @id/action_text : reachable=true
 @id/actions : reachable=true
+@id/addButton : reachable=false
 @id/androidx_window_activity_scope : reachable=true
 @id/async : reachable=false
 @id/blocking : reachable=false
@@ -1258,8 +1259,10 @@ Marking id:line3:2131034161 used because it matches string pool constant line
 @id/text2 : reachable=true
 @id/time : reachable=false
 @id/title : reachable=false
+@id/todoList : reachable=false
 @integer/status_bar_notification_info_maxnum : reachable=false
 @layout/custom_dialog : reachable=false
+@layout/home_screen_widget_layout : reachable=false
 @layout/notification_action : reachable=false
     @style/Widget_Compat_NotificationActionContainer
     @dimen/notification_action_icon_size
@@ -1305,6 +1308,8 @@ Marking id:line3:2131034161 used because it matches string pool constant line
 @style/Widget_Compat_NotificationActionText : reachable=false
     @color/androidx_core_secondary_text_default_material_light
     @dimen/notification_action_text_size
+@xml/home_screen_widget_info : reachable=true
+    @layout/home_screen_widget_layout
 
 The root reachable resources are:
  attr:activityAction:2130771968
@@ -1353,16 +1358,17 @@ The root reachable resources are:
  id:action_image:2131034147
  id:action_text:2131034148
  id:actions:2131034149
- id:androidx_window_activity_scope:2131034150
- id:info:2131034158
- id:line1:2131034160
- id:line3:2131034161
- id:locale:2131034162
- id:text:2131034184
- id:text2:2131034185
+ id:androidx_window_activity_scope:2131034151
+ id:info:2131034159
+ id:line1:2131034161
+ id:line3:2131034162
+ id:locale:2131034163
+ id:text:2131034185
+ id:text2:2131034186
  mipmap:happit:2131230720
  style:LaunchTheme:2131361792
  style:NormalTheme:2131361793
+ xml:home_screen_widget_info:2131492864
 Skipped unused resource res/drawable/notification_bg.xml: 751 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/notification_bg_low.xml: 753 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/drawable/notification_icon_background.xml: 314 bytes (replaced with small dummy file of size 9 bytes)

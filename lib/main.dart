@@ -1,8 +1,13 @@
-import 'package:flutter/material.dart';
 import 'package:Happit/routes/habit_tracker.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter/services.dart';
+import 'package:Happit/data/database.dart';
 import 'package:Happit/routes/todo.dart';
+import 'package:Happit/widgets/home_screen_widget.dart';
 import 'package:Happit/themes/darkPurple.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+
 
 void main() async {
   await Hive.initFlutter();
@@ -26,6 +31,7 @@ class MyApp extends StatelessWidget {
         '/habit_tracker':(context) => const HabitTracker(),
         '/todo':(context) => const Todo(),
       },
+      home: HomeScreenWidget(),
     );
   }
 }

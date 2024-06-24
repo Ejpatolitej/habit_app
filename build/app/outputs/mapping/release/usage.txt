@@ -1665,6 +1665,7 @@ com.example.habit_app.R$mipmap
 com.example.habit_app.R$string
 com.example.habit_app.R$style
 com.example.habit_app.R$styleable
+com.example.habit_app.R$xml
 com.example.habit_app.R
 io.flutter.BuildConfig
 io.flutter.FlutterInjector$Builder:

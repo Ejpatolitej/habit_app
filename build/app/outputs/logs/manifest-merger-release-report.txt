@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:3:4-33:19
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:3:4-49:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nikla\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nikla\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.6.0] C:\Users\nikla\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
@@ -17,10 +17,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ni
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
 		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:5:9-42
 manifest
-ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
 MERGED from [:path_provider_android] D:\Programming\Flutter\habit_app\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nikla\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nikla\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
@@ -39,20 +39,20 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nikla\.gradle\cache
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nikla\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\nikla\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nikla\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
 	package
 		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:2:5-36
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:1-50:12
 		INJECTED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:1:11-69
@@ -138,12 +138,48 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
 		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:25:27-74
-meta-data#flutterEmbedding
-ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:30:9-32:33
-	android:value
-		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:32:13-30
+receiver#io.flutter.plugins.home.FlutterHomeScreenAppWidgetProvider
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:28:9-43:20
+	android:label
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:31:13-44
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:29:13-86
+intent-filter#action:name:android.appwidget.action.APPWIDGET_DELETED+action:name:android.appwidget.action.APPWIDGET_DISABLED+action:name:android.appwidget.action.APPWIDGET_ENABLED+action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.appwidget.action.APPWIDGET_UPDATE_OPTIONS
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:32:13-38:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:33:17-84
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:33:25-81
+action#android.appwidget.action.APPWIDGET_ENABLED
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:34:17-85
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:34:25-82
+action#android.appwidget.action.APPWIDGET_DELETED
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:35:17-85
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:35:25-82
+action#android.appwidget.action.APPWIDGET_DISABLED
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:36:17-86
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:36:25-83
+action#android.appwidget.action.APPWIDGET_UPDATE_OPTIONS
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:37:17-92
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:37:25-89
+meta-data#android.appwidget.provider
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:40:13-42:67
+	android:resource
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:42:17-64
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:41:17-58
+meta-data#flutterEmbedding
+ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from D:\Programming\Flutter\habit_app\android\app\src\main\AndroidManifest.xml:47:13-44
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nikla\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required

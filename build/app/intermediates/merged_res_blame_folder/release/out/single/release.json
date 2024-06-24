@@ -48,6 +48,10 @@
         "source": "com.example.habit_app-core-1.6.0-1:/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "com.example.habit_app-merged_res-11:/layout_home_screen_widget_layout.xml.flat",
+        "source": "com.example.habit_app-main-4:/layout/home_screen_widget_layout.xml"
+    },
+    {
         "merged": "com.example.habit_app-merged_res-11:/layout-v21_notification_action_tombstone.xml.flat",
         "source": "com.example.habit_app-core-1.6.0-1:/layout-v21/notification_action_tombstone.xml"
     },
@@ -106,6 +110,10 @@
     {
         "merged": "com.example.habit_app-merged_res-11:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "com.example.habit_app-core-1.6.0-1:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.example.habit_app-merged_res-11:/xml_home_screen_widget_info.xml.flat",
+        "source": "com.example.habit_app-main-4:/xml/home_screen_widget_info.xml"
     },
     {
         "merged": "com.example.habit_app-merged_res-11:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",

@@ -106,6 +106,7 @@ id action_divider
 id action_image
 id action_text
 id actions
+id addButton
 id androidx_window_activity_scope
 id async
 id blocking
@@ -144,8 +145,10 @@ id text
 id text2
 id time
 id title
+id todoList
 integer status_bar_notification_info_maxnum
 layout custom_dialog
+layout home_screen_widget_layout
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -174,3 +177,4 @@ styleable GradientColorItem android_color android_offset
 styleable SplitPairFilter primaryActivityName secondaryActivityAction secondaryActivityName
 styleable SplitPairRule clearTop finishPrimaryWithSecondary finishSecondaryWithPrimary splitLayoutDirection splitMinSmallestWidth splitMinWidth splitRatio
 styleable SplitPlaceholderRule placeholderActivityName splitLayoutDirection splitMinSmallestWidth splitMinWidth splitRatio
+xml home_screen_widget_info
