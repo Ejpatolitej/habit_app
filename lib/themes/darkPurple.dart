@@ -11,8 +11,6 @@ class AppTheme {
         onSecondary: Colors.white,
         error: Colors.red,
         onError: Colors.white,
-        background: Color.fromARGB(255, 26, 25, 25),
-        onBackground: Colors.white,
         surface: Colors.grey,
         onSurface: Colors.white,
       ),

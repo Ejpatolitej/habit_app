@@ -97,8 +97,8 @@ class _TodoPageState extends State<Todo> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Row(
-            children: const [
+          title: const Row(
+            children: [
               Icon(Icons.check_box),
               SizedBox(
                 width: 8,

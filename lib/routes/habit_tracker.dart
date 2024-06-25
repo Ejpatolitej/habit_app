@@ -100,8 +100,8 @@ class _HomePageState extends State<HabitTracker> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Row(
-          children: const [
+        title: const Row(
+          children: [
             Icon(Icons.checklist),
             SizedBox(
               width: 8,

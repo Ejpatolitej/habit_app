@@ -5,6 +5,8 @@ import 'package:happit/components/todo_tile.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class HomeScreenWidget extends StatefulWidget {
+  const HomeScreenWidget({super.key});
+
   @override
   _HomeScreenWidgetState createState() => _HomeScreenWidgetState();
 }
@@ -97,8 +99,8 @@ class _HomeScreenWidgetState extends State<HomeScreenWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Row(
-          children: const [
+        title: const Row(
+          children: [
             Icon(Icons.check_box),
             SizedBox(
               width: 8,

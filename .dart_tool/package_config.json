@@ -45,9 +45,9 @@
     },
     {
       "name": "build_daemon",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/build_daemon-4.0.1",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/build_daemon-4.0.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "build_resolvers",
@@ -57,9 +57,9 @@
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.4.9",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.4.11",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "build_runner_core",
@@ -159,9 +159,9 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/flutter/packages/flutter",
+      "rootUri": "file:///D:/Programs/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_heatmap_calendar",
@@ -183,9 +183,9 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/flutter/packages/flutter_test",
+      "rootUri": "file:///D:/Programs/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "frontend_server_client",
@@ -255,21 +255,21 @@
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.0",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.4",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-2.0.1",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_testing",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "lints",
@@ -297,7 +297,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.12.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -327,9 +327,9 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.4",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.6",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider_foundation",
@@ -393,13 +393,13 @@
     },
     {
       "name": "shelf_web_socket",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-1.0.4",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///D:/Programs/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -453,7 +453,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.6.1",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -477,9 +477,9 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-13.0.0",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "watcher",
@@ -494,16 +494,22 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "web_socket",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket-0.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "web_socket_channel",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.5",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.5.0",
+      "rootUri": "file:///C:/Users/nikla/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.5.1",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "xdg_directories",
@@ -524,7 +530,10 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-06-24T15:27:09.304889Z",
+  "generated": "2024-06-25T08:12:16.330246Z",
   "generator": "pub",
-  "generatorVersion": "3.3.4"
+  "generatorVersion": "3.4.3",
+  "flutterRoot": "file:///D:/Programs/flutter",
+  "flutterVersion": "3.22.2",
+  "pubCache": "file:///C:/Users/nikla/AppData/Local/Pub/Cache"
 }

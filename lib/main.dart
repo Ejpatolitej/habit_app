@@ -1,8 +1,5 @@
 import 'package:happit/routes/habit_tracker.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter/services.dart';
-import 'package:happit/data/database.dart';
 import 'package:happit/routes/todo.dart';
 import 'package:happit/widgets/home_screen_widget.dart';
 import 'package:happit/themes/darkPurple.dart';
@@ -30,7 +27,7 @@ class MyApp extends StatelessWidget {
         '/habit_tracker': (context) => const HabitTracker(),
         '/todo': (context) => const Todo(),
       },
-      home: HomeScreenWidget(),
+      home: const HomeScreenWidget(),
     );
   }
 }
